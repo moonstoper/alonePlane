@@ -13,3 +13,7 @@ Important Note
 =================
 Sprites are not designed by me..and is not for commerical use.
 Using TextMesh Pro(download from unity store)
+
+//There are more bugsbut easy to solve ..Unable to avoid at the time of coding because of other commitments and lack of time.
+
+peace..
