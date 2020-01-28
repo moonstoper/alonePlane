@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pro12",
+            "request": "launch",
+            "mainClass": "pro12",
+            "projectName": "alonePlane_96f88d3"
+        }
+    ]
+}
