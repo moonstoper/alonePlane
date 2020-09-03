@@ -1,11 +1,18 @@
 # **A Plane**
-[project name:Trails]
-
+[project name:Trails]<br />
+Suraj Kachhap<br />
+### Links
+[![github](https://user-images.githubusercontent.com/53539666/92122433-43752880-edb0-11ea-8e0d-07880425b56a.png)](https://github.com/moonstoper)<br />
+### Note
 First project ,so nothing to expect .
 Fell free to use modify and use the code
 ##
 ## Important Note
 Sprites are not designed by me..and is not for commerical use.
+##### Audio 
+[Infinity Awiats Us](https://soundoftheaviators.bandcamp.com/album/infinity-awaits-us-a-royalty-free-ost)<br />
+##### Sprites
+[Space icons By GraphiqaStock](https://www.freepik.com/graphiqastock)
 ##
 ## Screenshots
 
