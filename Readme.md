@@ -1,4 +1,4 @@
-# **A Plane**
+# A Plane
 [project name:Trails]<br />
 Suraj Kachhap<br />
 ### Links
